@@ -1,0 +1,54 @@
+body{
+    background-image: url('https://exame.com/wp-content/uploads/2018/06/ponte-hercilio-luz-floriano.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+
+}
+header{
+    padding: 10px;
+    background-color: rgba(168, 216, 238, 0.748);
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-family: 'Playball', cursive;
+}
+
+.resumo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    color: white;
+    text-align: center;
+}
+
+.video{
+    padding: 10px;
+    box-sizing: border-box;
+    width: 1300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.title{
+    font-family: 'Playball', cursive;
+}
+
+.lista{
+    text-align: center;
+    top: 100%;
+    margin: 20;
+    color: white;
+}
+
+.logo{
+    width: 60px;
+    height: 60px;
+    margin: 10px;
+}
+
+.rodape{
+    box-sizing: border-box;
+    text-align: center;
+}
+
+
